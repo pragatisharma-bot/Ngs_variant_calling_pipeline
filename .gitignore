@@ -1,0 +1,42 @@
+# Raw sequencing reads
+raw_data/
+data/raw/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Trimmed sequencing reads
+trimmed/
+
+# Alignment files
+alignments/
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Reference genomes and indexes
+reference/
+*.fai
+*.dict
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# Variant outputs
+variants/
+*.vcf
+*.vcf.gz
+*.bcf
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Environment secrets
+.env
