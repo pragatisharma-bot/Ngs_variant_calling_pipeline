@@ -1,0 +1,21 @@
+NGS Variant Calling Pipeline - Software Versions
+
+Operating system:
+Ubuntu / WSL
+
+Workflow tools:
+FastQC - version to be confirmed
+Trimmomatic - version to be confirmed
+BWA - version to be confirmed
+SAMtools - version to be confirmed
+Picard - version to be confirmed
+GATK - version to be confirmed
+SnpEff - version to be confirmed
+
+Reference genome:
+GRCh38 - exact reference release to be confirmed
+
+Notes:
+Record the actual installed software versions before
+reproducing the workflow. Do not assume that the latest
+software version was used in the original analysis.
